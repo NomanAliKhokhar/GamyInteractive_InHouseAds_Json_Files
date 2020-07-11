@@ -2,30 +2,30 @@
 
 
         "0": {
-            "id": "https://apps.apple.com/us/app/mother-life-simulator-game/id1467924305",
-            "name": "Mother Simulator",
-            "image_url": "https://homemediation.s3-ap-southeast-1.amazonaws.com/FamilySimulator/motherSimulator.png",
+            "id": "https://play.google.com/store/apps/details?id=com.gamy.kids.toilet.emergency.pro&hl=en",
+            "name": "Kids Toilet Emergency Pro 3D",
+            "image_url": "https://gamyinteractiveinhouseads.s3.eu-west-2.amazonaws.com/CrossPromotion_Images/1.Girls+Biker+Gang+3D.png",
             "value": 1,
             "desc": ""
         },
         "1": {
-            "id": "https://apps.apple.com/us/app/character-maker-doll-avatar/id1445550944",
-            "name": "Doll Maker",
-            "image_url": "https://homemediation.s3-ap-southeast-1.amazonaws.com/FamilySimulator/dollMaker.png",
+            "id": "https://play.google.com/store/apps/details?id=com.Gamy.Train.Driving.Simulator",
+            "name": "Impossible Bullet Train Drive",
+            "image_url": "https://gamyinteractiveinhouseads.s3.eu-west-2.amazonaws.com/CrossPromotion_Images/2.Impossible+Bullet+Train+Drive.png",
             "value": 1,
             "desc": ""
         },
         "2": {
-            "id": "https://apps.apple.com/us/app/cooking-story-chef-simulator/id1488085812",
-            "name": "Cooking Chef Simulator",
-            "image_url": "https://homemediation.s3-ap-southeast-1.amazonaws.com/FamilySimulator/cookingSimulator.png",
+            "id": "https://play.google.com/store/apps/details?id=com.gamy.bank.cash.van.driving.simulator",
+            "name": "Bank Cash-in-transit Security Van Simulator",
+            "image_url": "https://gamyinteractiveinhouseads.s3.eu-west-2.amazonaws.com/CrossPromotion_Images/3.Bank+Cash-in-transit+Security.png",
             "value": 1,
             "desc": ""
         },
         "3": {
-            "id": "https://apps.apple.com/us/app/thief-robbery-sneak-simulator/id1451957077",
-            "name": "Thief Robbery Simulator",
-            "image_url": "https://homemediation.s3-ap-southeast-1.amazonaws.com/FamilySimulator/thiefSimulator.png",
+            "id": "https://play.google.com/store/apps/details?id=com.gamy.flying.police.bike.rider.marshal.rescue.mission",
+            "name": "Flying Police Bike Rider Marshal",
+            "image_url": "https://gamyinteractiveinhouseads.s3.eu-west-2.amazonaws.com/CrossPromotion_Images/5.Flying+Police+Bike+Rider+Marshal.png",
             "value": 1,
             "desc": ""
         }
