@@ -5,28 +5,28 @@
             "id": "https://play.google.com/store/apps/details?id=com.gamy.girls.biker.gang.outlaws",
             "name": "Girls Biker Gang 3D",
             "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/1.Girls%20Biker%20Gang%203D.png",
-            "value": 1,
+            "value": 0,
             "desc": ""
         },
         "1": {
             "id": "https://play.google.com/store/apps/details?id=com.gamy.bank.cash.van.driving.simulator",
             "name": "Bank Cash-in-transit Security Van Simulator",
             "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/3.Bank%20Cash-in-transit%20Security.png",
-            "value": 1,
+            "value": 0,
             "desc": ""
         },
         "2": {
             "id": "https://play.google.com/store/apps/details?id=com.gamy.kids.toilet.emergency.pro",
             "name": "Kids Toilet Emergency Pro 3D",
             "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/6.Kids%20Toilet%20Emergency%20Pro%203D.png",
-            "value": 1,
+            "value": 0,
             "desc": ""
         },
         "3": {
             "id": "https://play.google.com/store/apps/details?id=com.gamy.us.army.aeroplane.hijack.rescue.mission",
             "name": "US Army Aeroplane Hijack Rescue Mission",
             "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/4.US%20Army%20Aeroplane%20Hijack.png",
-            "value": 1,
+            "value": 0,
             "desc": ""
         }
 
