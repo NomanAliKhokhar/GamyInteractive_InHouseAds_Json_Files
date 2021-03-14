@@ -1,35 +1,9 @@
 {
-
-
         "0": {
             "id": "https://play.google.com/store/apps/details?id=com.gamy.girls.biker.gang.outlaws",
             "name": "Girls Biker Gang 3D",
             "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/1.Girls%20Biker%20Gang%203D.png",
-            "value": 0,
-            "desc": ""
-        },
-        "1": {
-            "id": "https://play.google.com/store/apps/details?id=com.Gamy.Train.Driving.Simulator",
-            "name": "Impossible Bullet Train Drive",
-            "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/2.Impossible%20Bullet%20Train%20Drive.png",
-            "value": 0,
-            "desc": ""
-        },
-        "2": {
-            "id": "https://play.google.com/store/apps/details?id=com.gamy.bank.cash.van.driving.simulator",
-            "name": "Bank Cash-in-transit Security Van Simulator",
-            "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/3.Bank%20Cash-in-transit%20Security.png",
-            "value": 0,
-            "desc": ""
-        },
-        "3": {
-            "id": "https://play.google.com/store/apps/details?id=com.gamy.flying.police.bike.rider.marshal.rescue.mission",
-            "name": "Flying Police Bike Rider Marshal",
-            "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/5.Flying%20Police%20Bike%20Rider%20Marshal.png",
-            "value": 0,
+            "value": 1,
             "desc": ""
         }
-
-
- 
 }
