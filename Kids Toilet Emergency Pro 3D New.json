@@ -5,5 +5,12 @@
             "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/Horse%20Cart%20Cross.png",
             "value": 1,
             "desc": ""
+        },
+        "1": {
+            "id": "https://play.google.com/store/apps/details?id=com.Kidroider.HousewifeSimulator",
+            "name": "Virtual HouseWife Simulator",
+            "image_url": "https://raw.githubusercontent.com/NomanAliKhokhar/GamyInteractive_InHouseAds_Images/master/22.%20VitualHouseWifeSimulator.jpg",
+            "value": 1,
+            "desc": ""
         }
 }
