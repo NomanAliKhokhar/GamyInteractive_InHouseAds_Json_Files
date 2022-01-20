@@ -1,43 +1,43 @@
 {
-"theme": {
-"main": "theme2"
-},
-"appJump": {
-"targetApp": null,
-"periodBetweenJumps": 300
-},
-"paywalls": {
-"default": {
-"modalPresentationStyle": 6,
-"showLocation": [
-"deepInGame"
-],
-"products": [
-{
-"productId": "com.appcentral.beautybridalsalon.default_subscription",
-"statisticsTag": "default_subscription",
-"buttonText": "Subscribe",
-"buttonDescription": "Start Your Subscription"
-}
-]
-}
-},
-"allowTracking": {
-"showLocation": [
-"onLoad"
-]
-},
-"campaign": {
-"name": null
-},
-"rating": {
-"rateOnLevel": 3,
-"isBundleLeader": false
-},
-"recording": {
-"recordOnceIn": 5
-},
-"ads": {
-"showOnLevelStart": true
-}
+    "theme": {
+        "main": "theme2"
+    },
+    "appJump": {
+        "targetApp": null,
+        "periodBetweenJumps": 300
+    },
+    "paywalls": {
+        "default": {
+            "modalPresentationStyle": 6,
+            "showLocation": [
+                "deepInGame"
+            ],
+            "products": [
+                {
+                    "productId": "com.appcentral.beautybridalsalon.default_subscription",
+                    "statisticsTag": "default_subscription",
+                    "buttonText": "Subscribe",
+                    "buttonDescription": "Start Your Subscription"
+                }
+            ]
+        }
+    },
+    "allowTracking": {
+        "showLocation": [
+            "onLoad"
+        ]
+    },
+    "campaign": {
+        "name": null
+    },
+    "rating": {
+        "rateOnLevel": 3,
+        "isBundleLeader": false
+    },
+    "recording": {
+        "recordOnceIn": 5
+    },
+    "ads": {
+        "showOnLevelStart": true
+    }
 }
