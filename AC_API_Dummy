@@ -32,7 +32,9 @@
     },
     "rating": {
         "rateOnLevel": 1,
-        "isBundleLeader": false
+        "isBundleLeader": false,
+        "AppBundleID": 789654321
+        
     },
     "recording": {
         "recordOnceIn": 5
