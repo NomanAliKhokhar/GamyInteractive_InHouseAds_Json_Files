@@ -10,7 +10,7 @@
         "default": {
             "modalPresentationStyle": 6,
             "showLocation": [
-                "startPlay"
+                "deepInGame"
             ],
             "products": [
                 {
