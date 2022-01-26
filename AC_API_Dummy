@@ -39,7 +39,7 @@
     "recording": {
         "recordOnceIn": 5
     },
-        "PushNotification": {
+        "pushNotification": {
         "PremisionPromptAt": "startPlay",
                 "periodBetweenJumps": 300
     },
