@@ -41,8 +41,7 @@
     },
     "ads": {
         "showOnLevelStart": true
-    }
-
+    },
     "PushNotification": {
         "PremisionPromptAt": "onLoad"
     }
