@@ -39,12 +39,12 @@
     "recording": {
         "recordOnceIn": 5
     },
-        "pushNotification": {
-        "PremisionPromptAt": "startPlay",
-                "periodBetweenJumps": 300
-    },
+
     "ads": {
         "showOnLevelStart": true
+    },
+            "pushNotification": {
+        "PremisionPromptAt": "startPlay"
     }
 
 }
