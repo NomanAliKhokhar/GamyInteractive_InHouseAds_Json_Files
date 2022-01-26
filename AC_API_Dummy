@@ -44,6 +44,6 @@
     }
 
     "PushNotification": {
-        "PremisionAt": "onLoad"
+        "PremisionPromptAt": "onLoad"
     }
 }
