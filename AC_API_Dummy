@@ -42,4 +42,8 @@
     "ads": {
         "showOnLevelStart": true
     }
+
+    "PushNotification": {
+        "PremisionAt": "onLoad"
+    }
 }
