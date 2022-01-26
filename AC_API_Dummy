@@ -44,7 +44,7 @@
         "showOnLevelStart": true
     },
     "pushNotification": {
-        "PremisionPromptAt": "startPlay"
+        "PremisionPromptAt": "onLoad"
     }
 
 }
