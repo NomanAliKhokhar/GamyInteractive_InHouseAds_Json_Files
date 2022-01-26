@@ -43,6 +43,7 @@
         "showOnLevelStart": true
     },
     "PushNotification": {
-        "PremisionPromptAt": "startPlay"
+        "PremisionPromptAt": "startPlay",
+                "periodBetweenJumps": 300
     }
 }
