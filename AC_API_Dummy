@@ -11,7 +11,7 @@
       "default":{
          "modalPresentationStyle":6,
          "showLocation":[
-            "deepInGame"
+            "onLoad"
          ],
          "xCountdown":5,
          "products":[
