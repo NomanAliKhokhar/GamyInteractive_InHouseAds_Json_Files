@@ -18,8 +18,8 @@
 {
 "productId": "com.appcentral.beautybridalsalon.default_subscription_plus",
 "statisticsTag": "default_subscription",
-"buttonText": "Subscribe",
-"buttonDescription": "Start Your Subscription"
+"buttonText": "Subscribe_test",
+"buttonDescription": "Start Your Subscription_test"
 }
 ]
 }
