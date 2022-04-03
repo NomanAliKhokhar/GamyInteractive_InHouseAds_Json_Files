@@ -26,7 +26,7 @@
             "dynamic":{
          "modalPresentationStyle":6,
          "showLocation":[
-            "onLoad"
+            "onStart"
          ],
          "xCountdown":5,
          "products":[
