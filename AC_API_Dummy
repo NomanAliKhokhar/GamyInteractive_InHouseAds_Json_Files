@@ -16,7 +16,7 @@
       "xCountdown": 5,
       "products": [
         {
-          "productId": "com.appcentral.beautybridalsalon.default_subscription_plus",
+          "productId": "com.noman.Itsadate.default_subscription",
           "statisticsTag": "default_subscription",
           "buttonText": "Subscribe",
           "buttonDescription": "Start Your Subscription"
