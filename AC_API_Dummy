@@ -22,6 +22,21 @@
           "buttonDescription": "Start Your Subscription"
         }
       ]
+    },
+        "dynamic": {
+      "modalPresentationStyle": 6,
+      "showLocation": [
+        "deepInGame"
+      ],
+      "xCountdown": 5,
+      "products": [
+        {
+          "productId": "com.DefaultCompany.AppCentralSDKs.default_subscription",
+          "statisticsTag": "Dynamic_subscription",
+          "buttonText": "Subscribe_Dynamic",
+          "buttonDescription": "Start Your Subscription Dynamic"
+        }
+      ]
     }
   },
   "allowTracking": {
