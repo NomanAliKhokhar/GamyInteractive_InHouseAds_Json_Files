@@ -1,22 +1,22 @@
 {
   "theme": {
-    "main": "theme2",
+    "main": "theme1",
     "forceTheme": false
   },
   "appJump": {
     "targetApp": null,
-    "periodBetweenJumps": 300
+    "periodBetweenJumps": 15
   },
   "paywalls": {
     "default": {
       "modalPresentationStyle": 6,
       "showLocation": [
-        "onLoad"
+        "deepInGame"
       ],
       "xCountdown": 5,
       "products": [
         {
-          "productId": "com.noman.Itsadate.default_subscription",
+          "productId": "com.DefaultCompany.AppCentralSDKs.default_subscription",
           "statisticsTag": "default_subscription",
           "buttonText": "Subscribe",
           "buttonDescription": "Start Your Subscription"
@@ -29,7 +29,9 @@
       "onLoad"
     ]
   },
-  "campaign": {},
+  "campaign": {
+    "name": "themeTest"
+  },
   "rating": {
     "rateOnLevel": 3,
     "isBundleLeader": false
@@ -38,7 +40,7 @@
     "recordOnceIn": 20
   },
   "ads": {
-    "showOnLevelStart": true
+    "showOnLevelStart": false
   },
   "pushNotification": {
     "showLocation": [
