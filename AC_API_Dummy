@@ -1,13 +1,13 @@
 {
   "theme": {
-    "main": "theme1",
+    "main": "theme2",
     "forceTheme": false
   },
   "appJump": {
     "targetApp": null,
     "periodBetweenJumps": 15
   },
-  "paywalls": {
+"paywalls": {
     "default": {
       "modalPresentationStyle": 6,
       "showLocation": [
@@ -26,36 +26,44 @@
         "dynamic": {
       "modalPresentationStyle": 6,
       "showLocation": [
-        "onLoad"
+        "deepInGame"
       ],
       "xCountdown": 5,
       "products": [
         {
           "productId": "com.DefaultCompany.AppCentralSDKs.default_subscription",
           "statisticsTag": "Dynamic_subscription",
-          "buttonText": "Subscribe_Dynamic",
+          "buttonText": "Subscribe_Dynamic1",
           "buttonDescription": "Start Your Subscription Dynamic"
         }
       ]
     }
+  },
+  "userData": {
+    "appSessionNumber": 78
+  },
+  "subscription": {
+    "isSubscribed": 0
   },
   "allowTracking": {
     "showLocation": [
       "onLoad"
     ]
   },
-  "campaign": {
-    "name": "themeTest"
-  },
+  "campaign": {},
   "rating": {
-    "rateOnLevel": 3,
+    "ratingType": "native",
+    "appToRate": "app",
+    "rateOnLevel": 15,
     "isBundleLeader": false
   },
   "recording": {
     "recordOnceIn": 20
   },
   "ads": {
-    "showOnLevelStart": false
+    "showAds": 1,
+    "showOnLevelStart": false,
+    "extraAds": false
   },
   "pushNotification": {
     "showLocation": [
