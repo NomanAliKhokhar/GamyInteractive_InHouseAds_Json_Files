@@ -32,9 +32,9 @@
       "products": [
         {
           "productId": "com.DefaultCompany.AppCentralSDKs.default_subscription",
-          "statisticsTag": "Dynamic_subscription",
-          "buttonText": "Subscribe_Dynamic1",
-          "buttonDescription": "Start Your Subscription Dynamic"
+          "statisticsTag": "GIt Dynamic_subscription",
+          "buttonText": "Git Subscribe_Dynamic1",
+          "buttonDescription": "GIT Start Your Subscription Dynamic"
         }
       ]
     }
