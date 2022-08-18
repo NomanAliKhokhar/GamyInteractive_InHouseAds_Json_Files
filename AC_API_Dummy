@@ -54,7 +54,7 @@
   "rating": {
     "ratingType": "native",
     "appToRate": "app",
-    "rateOnLevel": 15,
+    "rateOnLevel": 1,
     "isBundleLeader": false
   },
   "recording": {
