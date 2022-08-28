@@ -47,7 +47,7 @@
   },
   "allowTracking": {
     "showLocation": [
-      "onLoad"
+      "startPlay"
     ]
   },
   "campaign": {},
